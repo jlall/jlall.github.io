@@ -1,6 +1,6 @@
 title: "A not-so-perfect blog"
-author:
-  name: JP
+#author:
+#  name: JP
   #email: "jplall@yahoo.com"
 description: > # this means to ignore newlines until "show_excerpts:"
   Playing aroung with Github pages to understand host post something meaninful
@@ -10,8 +10,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
+#minima:
+#  date_format: "%b %-d, %Y"
 
 # Build settings
 theme: minima
