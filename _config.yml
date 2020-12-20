@@ -1,12 +1,11 @@
 title: "A not-so-perfect blog"
 author:
-  name: "JP lall"
+  name: JP
   #email: "jplall@yahoo.com"
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  Playing aroung with Github pages to understand host post something meaninful
+  or not.
+  
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -14,8 +13,11 @@ show_excerpts: true # set to true to show excerpts on the homepage
 minima:
   date_format: "%b %-d, %Y"
 
+# Build settings
+theme: minima
+
   # generate social links in footer
-  social_links:
+#  social_links:
     #twitter: jekyllrb
     #github:  jekyll
     # devto: jekyll
@@ -52,9 +54,8 @@ minima:
 #header_pages:
 # - about.md
 
-# Build settings
-theme: minima
 
-plugins:
+
+# plugins:
 # - jekyll-feed
  #- jekyll-seo-tag
