@@ -1,9 +1,9 @@
-title                    : "JP Lall"
-title_separator          : "-"
+#title                    : "JP Lall"
+#title_separator          : "-"
 #name                     : &name "JP Lall"
-description              : ""
-url                      : https://jlall.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/_pages" # the subpath of your site, e.g. "/blog"
+#description              : ""
+#url                      : https://jlall.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#baseurl                  : "/_pages" # the subpath of your site, e.g. "/blog"
 #repository               : "jlall.github.io"
 
 # Conversion
