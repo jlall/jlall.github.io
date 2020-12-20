@@ -1,10 +1,10 @@
-#title                    : "JP Lall"
-#title_separator          : "-"
+title                    : "JP Lall"
+title_separator          : "-"
 #name                     : &name "JP Lall"
-#description              : ""
+description              : "This is a starter page for what I am not sure."
 #url                      : https://jlall.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/_pages" # the subpath of your site, e.g. "/blog"
-#repository               : "jlall.github.io"
+repository               : "jlall.github.io"
 
 # Conversion
 markdown: kramdown
@@ -13,7 +13,7 @@ markdown: kramdown
 #excerpt_separator: "\n\n"
 #incremental: false
 
-theme: minima
+theme: modernist
 plugins:
  - jekyll-feed
 
