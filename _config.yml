@@ -1,17 +1,18 @@
-title                    : "jlall"
+title                    : "JP Lall"
 title_separator          : "-"
 name                     : &name "JP Lall"
-description              : &description ""
-url                      : https://jlall.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#description              : &description ""
+#url                      : https://jlall.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/_pages" # the subpath of your site, e.g. "/blog"
-repository               : "jlall/jlall.github.io"
+#repository               : "jlall.github.io"
 
 # Conversion
 markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+#highlighter: rouge
+#lsi: false
+#excerpt_separator: "\n\n"
+#incremental: false
+
 theme: minima
 plugins:
  - jekyll-feed
@@ -19,12 +20,12 @@ plugins:
 show_excepts: true
 
 # Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+#kramdown:
+#  input: GFM
+#  hard_wrap: false
+#  auto_ids: true
+#  footnote_nr: 1
+#  entity_output: as_char
+#  toc_levels: 1..6
+#  smart_quotes: lsquo,rsquo,ldquo,rdquo
+#  enable_coderay: false
