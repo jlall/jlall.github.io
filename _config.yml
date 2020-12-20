@@ -1,32 +1,60 @@
-title                    : "A simple blag"
-#title_separator          : "-"
-#name                     : &name "JP Lall"
-description              : "This is a starter page for what I am not sure."
-#url                      : https://jlall.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#baseurl                  : "/_pages" # the subpath of your site, e.g. "/blog"
-#repository               : "jlall.github.io"
+title: "A not-so-perfect blog"
+author:
+  name: "jlall"
+  email: "jplall@yahoo.com"
+description: > # this means to ignore newlines until "show_excerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
-# Conversion
-markdown: kramdown
-#highlighter: rouge
-#lsi: false
-#excerpt_separator: "\n\n"
-#incremental: false
+show_excerpts: true # set to true to show excerpts on the homepage
 
-theme: jekyll-theme-minimal
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: jekyllrb
+    github:  jekyll
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
 
 plugins:
  - jekyll-feed
-
-#show_excepts: true
-
-# Markdown Processing
-#kramdown:
-#  input: GFM
-#  hard_wrap: false
-#  auto_ids: true
-#  footnote_nr: 1
-#  entity_output: as_char
-#  toc_levels: 1..6
-#  smart_quotes: lsquo,rsquo,ldquo,rdquo
-#  enable_coderay: false
+ - jekyll-seo-tag
