@@ -1,4 +1,4 @@
-### What is next?  ###
+What is next?  
 
 What a year. we have seen so much, and problaly learned a little about ourselves and the about the world.
 What are your next plans? What are our next plans? 
