@@ -1,4 +1,4 @@
-### A eventful death ###
+A eventful death
 
 Why does Mr. Boseman’s death hit so hard. 
 
