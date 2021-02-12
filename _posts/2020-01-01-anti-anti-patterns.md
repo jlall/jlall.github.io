@@ -1,10 +1,10 @@
 
-some coding thoughts
+some coding thoughts <br>
 
-Keep it simple. 
-Everything should have an owner.
-Keep boundries or surface area's small.
-Do one thing, do one thing only. 
-Make things api centric
+Keep it simple. <br>
+Everything should have an owner.<br>
+Keep boundries or surface area's small.<br>
+Do one thing, do one thing only. <br>
+Make things api centric.<br>
 
 
