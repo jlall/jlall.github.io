@@ -1,4 +1,9 @@
 some coding thoughts
 
-keep it simple. <br>
-do one thing, do one thing only. <br>
+Keep it simple. 
+Everything should have an owner.
+Keep boundries or surface area's small.
+Do one thing, do one thing only. 
+Make things api centric
+
+
