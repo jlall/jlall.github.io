@@ -1,3 +1,4 @@
+
 some coding thoughts
 
 Keep it simple. 
